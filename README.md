@@ -21,7 +21,7 @@ A prototype prosthetic hand built using **LEGO Mindstorms EV3**, demonstrating a
 - Document the design so it can be reproduced or improved
 
 ## Demo
-Check the demo file in the repo, and use this link to demo folder with all videos: https://drive.google.com/drive/folders/1JLLC8HWLDYezZzPMAi1FyZIcRnsr5J4P?usp=drive_link
+Check the demo file in the repo, and use this link to demo folder with all videos: https://drive.google.com/drive/folders/1WoAs9WQrnRcYMAwt4UTi7jGZIR9wfrUX?usp=sharing
 
 ## What We Built
 - A 3-motor EV3 hand mechanism: two main fingers driven by large motors, plus a thumb driven by a medium motor through a geared linkage
